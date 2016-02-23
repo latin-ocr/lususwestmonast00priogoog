@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lususwestmonast00priogoog_0049.png"; bbox 0 0 3300 5017; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 583 3486 1607 3583">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 583 3486 1607 3583">
+     <span class='ocr_line' id='line_1_1' title="bbox 583 3486 1607 3583; baseline 0 -79"><span class='ocrx_word' id='word_1_1' title='bbox 583 3486 1607 3583; x_wconf 95' lang='lat' dir='ltr'><strong>   </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 839 3397 2171 3543">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 719 3397 2171 3543">
+     <span class='ocr_line' id='line_1_2' title="bbox 839 3397 2171 3543; baseline 0.004 -61.504"><span class='ocrx_word' id='word_1_2' title='bbox 839 3503 865 3543; x_wconf 66' lang='lat' dir='ltr'><strong>t·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 891 3496 966 3543; x_wconf 87' lang='lat'>.&#39;··</span> <span class='ocrx_word' id='word_1_4' title='bbox 1113 3454 1154 3511; x_wconf 66' lang='lat'><strong>,⁶³⁹</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1179 3466 1198 3519; x_wconf 63' lang='lat' dir='ltr'><strong>’e</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1225 3448 1324 3543; x_wconf 29' lang='grc' dir='ltr'><strong>,η’...ἑ-</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1353 3472 1408 3543; x_wconf 56' lang='lat'><strong>§⁸4</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1451 3440 1534 3490; x_wconf 58' lang='lat'><strong>0053}-</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1606 3397 1949 3521; x_wconf 49' lang='lat' dir='ltr'><strong>ges-{Bn&#39;</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1992 3421 2171 3492; x_wconf 48' lang='lat'><strong>4353&amp;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 583 3300 2835 4096">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 583 3300 2835 4096">
+     <span class='ocr_line' id='line_1_3' title="bbox 583 3300 2835 4096; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 583 3322 2449 4096; x_wconf 95' lang='lat' dir='ltr'><strong>  </strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1923 3300 2835 3583; x_wconf 95' lang='lat' dir='ltr'><strong>      </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
